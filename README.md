@@ -45,12 +45,20 @@ Installing Torch
 =============
 
 OSX and Ubuntu:
-
+---------------
 Run the commands to install Torch globally:
 ```
 curl -sk https://raw.githubusercontent.com/torch/ezinstall/master/install-deps | bash
 curl -sk https://raw.githubusercontent.com/torch/ezinstall/master/install-luajit+torch | bash
 ```
+
+iOS
+---------------
+* https://github.com/clementfarabet/torch-ios
+
+Android
+---------------
+* https://github.com/soumith/torch-android
 
 Installing Packages
 ===================
