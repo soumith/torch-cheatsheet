@@ -72,9 +72,9 @@ List of Packages by Category
 General Math
 ------------
 * [torch](https://github.com/torch/torch7) - The core torch package. Apart from tensor operations, has convolutions, cross-correlations, basic linear algebra operations, eigen values/vectors etc.
-* [cephes](http://jucor.github.io/torch-cephes) - Cephes mathematical functions library, wrapped for Torch. Provides and wraps the 180+ special mathematical functions from the Cephes mathematical library, developed by Stephen L. Moshier. It is used, among many other places, at the heart of SciPy.
+* [cephes](http://deepmind.github.io/torch-cephes) - Cephes mathematical functions library, wrapped for Torch. Provides and wraps the 180+ special mathematical functions from the Cephes mathematical library, developed by Stephen L. Moshier. It is used, among many other places, at the heart of SciPy.
 * graph - Graph package for Torch
-* randomkit - Numpy's randomkit, wrapped for 
+* randomkit - Numpy's randomkit, wrapped for Torch
 * signal - A signal processing toolbox for Torch-7. FFT, DCT, Hilbert, cepstrums, stft
 
 Data formats
